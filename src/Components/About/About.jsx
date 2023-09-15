@@ -16,7 +16,7 @@ const About = () => {
           <p className="about__description">I am Aparannha Roy,
            web developer from Andul,Howrah. I have rich experience in 
            web site design and building and customization, also I am good at Wordpress.</p>
-          <a href="" className="btn">Download CV</a>
+          <a href="https://drive.google.com/file/d/1CnBEM6RezA9rdQnEoYfdj2OjNS8fyRya/view?usp=sharing" className="btn">Download CV</a>
         </div>
 
         <div className="about__skills grid">
